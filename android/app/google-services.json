@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400343858973",
+    "project_id": "swmantenimiento-bd078",
+    "storage_bucket": "swmantenimiento-bd078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400343858973:android:2daa59d27f89bceb86abf4",
+        "android_client_info": {
+          "package_name": "com.example.sw_de_control_de_mantenimiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400343858973-5geso6b75ji7rleaaeiqp5r1df5iu104.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdrWIK79RG7kNKQK2siOHLfl96TvVzWGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400343858973-5geso6b75ji7rleaaeiqp5r1df5iu104.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
